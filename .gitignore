@@ -1,0 +1,10 @@
+# Environments
+venv/
+__pycache__/
+
+# Security (Never commit this!)
+.env
+
+# Output files
+*.mp4
+*.mp3
