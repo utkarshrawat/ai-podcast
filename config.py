@@ -21,7 +21,7 @@ COMPANY_TO_TEARDOWN = "Airbnb"
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # --- HOSTING SETTINGS ---
-GITHUB_USERNAME = "YourGitHubUsername"
+GITHUB_USERNAME = "utkarshrawat"
 GITHUB_REPO_NAME = "ai-podcast" # The name of the repo you just created
 PODCAST_NAME = "The AI PM Teardown"
 PODCAST_DESC = "Two AI agents ruthlessly tearing down product strategies."
