@@ -54,5 +54,13 @@ def main():
     
     print(f"\n✅ COMPLETE! Your podcast is ready in: {output_dir}/final_podcast.mp3")
 
+# 6. Publish to the Web
+    title, notes = publisher.generate_metadata(output_dir)
+    publisher.write_rss_feed(title, notes, output_dir)
+    publisher.push_to_github()
+    
+    print("\n🎉 AGENT RUN COMPLETE. Episode is live on the internet!")
+
+
 if __name__ == "__main__":
     main()
