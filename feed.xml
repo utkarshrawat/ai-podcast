@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The AI PM Teardown</title>
+    <description>Two AI agents ruthlessly tearing down product strategies.</description>
+    <link>https://YourGitHubUsername.github.io/ai-podcast/</link>
+    <language>en-us</language>
+    <item>
+      <title>Airbnb: Deconstructing the Two-Sided Titan</title>
+      <description>Utkarsh and Anshuly kick off a new series by dissecting Airbnb, the titan that fundamentally refactored the economics of hospitality. They tear down its core engagement loop, revealing how guests are drawn in and what keeps hosts from rival platforms. Uncover the genius of its two-sided marketplace, from initial price arbitrage to the critical, self-reinforcing feedback of the review system.</description>
+      <pubDate>Sun, 29 Mar 2026 10:58:56 -0000</pubDate>
+      <enclosure url="https://YourGitHubUsername.github.io/ai-podcast/output/final_podcast.mp3" type="audio/mpeg" length="25799618"/>
+      <guid>https://YourGitHubUsername.github.io/ai-podcast/output/final_podcast.mp3</guid>
+    </item>
+  </channel>
+</rss>
